@@ -158,7 +158,7 @@ public class WikiItemService : IItemService
         var textValue  = GetInfoboxValueByLabel("Weight", document);
         
         /* Some items have an Unknown weight, so we will consider that Null */
-        if (textValue.Split()[0] == "Unknown")
+        if (textValue.Split()[0] == "Unknown" || textValue.Split()[0] == "?")
         {
             return null;
         }

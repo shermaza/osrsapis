@@ -168,21 +168,52 @@ public class WikiItemServiceTest
     }
 
     [Fact]
-    public void TestAllItems()
+    public void Get_LitTorchUnobtainable()
     {
-        int min = 34;
-        int max = 1000;
-        var htmlService = new WikiHtmlService();
-        var itemService = new WikiItemService(htmlService);
+        const int itemId = 595;
+        var mockHtmlService = GetMockDocument(new LitTorchUnobtainable(), itemId);
+        var wikiItemService = new WikiItemService(mockHtmlService);
+
+        var result = wikiItemService.Get(itemId);
         
-        for (int i = min; i < max; i++)
-        {
-            var item = itemService.Get(i);
-            _testOutputHelper.WriteLine($"Id: {i} - {Newtonsoft.Json.JsonConvert.SerializeObject(item)}");
-            
-            Thread.Sleep(3000);
-        }
+        Assert.Equivalent(itemId, result.Id);
+        Assert.Equivalent("Torch", result.Name);
+        Assert.Equivalent(new DateTime(2004, 3, 29), result.ReleaseDate);
+        Assert.False(result.IsMembers);
+        Assert.False(result.IsTradeable);
+        Assert.False(result.IsEquipable);
+        Assert.True(result.IsStackable);
+        Assert.Equivalent(@"Drop", result.DestroyText);
+        Assert.Equivalent(@"A lit home-made torch.", result.ExamineText);
+        Assert.Equivalent(0, result.Value);
+        Assert.Equivalent(0, result.HighAlchValue);
+        Assert.Equivalent(0, result.LowAlchValue);
+        Assert.Equivalent(null, result.Weight);
     }
+
+    /// <summary>
+    /// Only use for finding what items break the application. Uncaught exceptions will help
+    /// to find specific test cases to add above.
+    /// </summary>
+    /// <param name="htmlClass"></param>
+    /// <param name="id"></param>
+    /// <returns></returns>
+    // [Fact]
+    // public void TestAllItems()
+    // {
+    //     int min = 594;
+    //     int max = 1000;
+    //     var htmlService = new WikiHtmlService();
+    //     var itemService = new WikiItemService(htmlService);
+    //     
+    //     for (int i = min; i < max; i++)
+    //     {
+    //         var item = itemService.Get(i);
+    //         _testOutputHelper.WriteLine($"Id: {i} - {Newtonsoft.Json.JsonConvert.SerializeObject(item)}");
+    //         
+    //         Thread.Sleep(3000);
+    //     }
+    // }
 
     private IHtmlService GetMockDocument(ITestHtml htmlClass, int id)
     {
