@@ -1,0 +1,3002 @@
+{
+  "25600": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Great blue heron"
+  },
+  "25602": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Tiny tempor"
+  },
+  "25606": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Propeller hat"
+  },
+  "25612": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "S.t.a.s.h blueprint"
+  },
+  "25613": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Baby mole-rat"
+  },
+  "25615": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Large water container"
+  },
+  "25617": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Tea flask"
+  },
+  "25618": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Plain satchel"
+  },
+  "25619": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Green satchel"
+  },
+  "25620": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Red satchel"
+  },
+  "25621": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Black satchel"
+  },
+  "25622": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Gold satchel"
+  },
+  "25623": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Rune satchel"
+  },
+  "25624": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Unsired"
+  },
+  "25627": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Coal bag"
+  },
+  "25628": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Gem bag"
+  },
+  "25629": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Plank sack"
+  },
+  "25630": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Flamtaer bag"
+  },
+  "25633": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Imcando hammer (broken)"
+  },
+  "25658": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Raw cavefish"
+  },
+  "25670": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Raw catfish"
+  },
+  "25672": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Catfish"
+  },
+  "25674": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Ruined catfish"
+  },
+  "25676": {
+    "noted": false,
+    "stackable": true,
+    "members": false,
+    "name": "Barronite shards"
+  },
+  "25684": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Barronite deposit"
+  },
+  "25700": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Chaos core"
+  },
+  "25702": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ungael lab notes"
+  },
+  "25704": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Lithkren vault notes"
+  },
+  "25706": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Dusty note"
+  },
+  "25710": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Stool"
+  },
+  "25711": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Stool"
+  },
+  "25730": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Bandages"
+  },
+  "25742": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Holy ornament kit"
+  },
+  "25744": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Sanguine ornament kit"
+  },
+  "25746": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Sanguine dust"
+  },
+  "25748": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Lil\u0027 maiden"
+  },
+  "25749": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Lil\u0027 bloat"
+  },
+  "25750": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Lil\u0027 nylo"
+  },
+  "25751": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Lil\u0027 sot"
+  },
+  "25752": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Lil\u0027 xarp"
+  },
+  "25753": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antique lamp"
+  },
+  "25754": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison (-)(1)"
+  },
+  "25755": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison (-)(2)"
+  },
+  "25756": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison (-)(3)"
+  },
+  "25757": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison (-)(4)"
+  },
+  "25758": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison potion (1)"
+  },
+  "25759": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison potion (2)"
+  },
+  "25760": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison potion (3)"
+  },
+  "25761": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison potion (4)"
+  },
+  "25762": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison (+)(1)"
+  },
+  "25763": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison (+)(2)"
+  },
+  "25764": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison (+)(3)"
+  },
+  "25765": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Antipoison (+)(4)"
+  },
+  "25766": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Fiendish ashes"
+  },
+  "25767": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Fiendish ashes"
+  },
+  "25769": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Vile ashes"
+  },
+  "25770": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Vile ashes"
+  },
+  "25772": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Malicious ashes"
+  },
+  "25773": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Malicious ashes"
+  },
+  "25775": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Abyssal ashes"
+  },
+  "25776": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Abyssal ashes"
+  },
+  "25778": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Infernal ashes"
+  },
+  "25779": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Infernal ashes"
+  },
+  "25781": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ash sanctifier"
+  },
+  "25786": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "î\u0010\u0002Clue scroll (elite)"
+  },
+  "25787": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "î\u0010\u0002Clue scroll (elite)"
+  },
+  "25797": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Order form"
+  },
+  "25798": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Demonic incantations"
+  },
+  "25800": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Cultist robe"
+  },
+  "25802": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Rose\u0027s diary"
+  },
+  "25803": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Bluish key"
+  },
+  "25804": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Cold key"
+  },
+  "25805": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Rose\u0027s note"
+  },
+  "25806": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Rose\u0027s note"
+  },
+  "25807": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Rose\u0027s note"
+  },
+  "25808": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Rose\u0027s note"
+  },
+  "25809": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Lizardman egg"
+  },
+  "25810": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Damp key"
+  },
+  "25811": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Broken redirector"
+  },
+  "25812": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Sulphur potion"
+  },
+  "25813": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Shielding potion"
+  },
+  "25814": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Declaration"
+  },
+  "25815": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Dark nullifier"
+  },
+  "25816": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Shayzien journal"
+  },
+  "25817": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Royal accord of twill"
+  },
+  "25818": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Book of the dead"
+  },
+  "25824": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Research notes"
+  },
+  "25826": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Lizardkicker"
+  },
+  "25827": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Lizardkicker"
+  },
+  "25829": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Old note"
+  },
+  "25831": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Shayzia military orders"
+  },
+  "25833": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Raw boar meat"
+  },
+  "25834": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Raw boar meat"
+  },
+  "25836": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Little parasite"
+  },
+  "25837": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Slepey tablet"
+  },
+  "25838": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Parasitic egg"
+  },
+  "25840": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Banana hat"
+  },
+  "25842": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Sraracha"
+  },
+  "25843": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Sraracha"
+  },
+  "25844": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Orange egg sac"
+  },
+  "25846": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Blue egg sac"
+  },
+  "25853": {
+    "noted": false,
+    "stackable": true,
+    "members": true,
+    "name": "Amethyst dart tip"
+  },
+  "25859": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Enhanced crystal weapon seed"
+  },
+  "25860": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Enhanced crystal weapon seed"
+  },
+  "25926": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Ghommal\u0027s hilt 1"
+  },
+  "25928": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Ghommal\u0027s hilt 2"
+  },
+  "25932": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Ghommal\u0027s hilt 4"
+  },
+  "25934": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Ghommal\u0027s hilt 5"
+  },
+  "25936": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Ghommal\u0027s hilt 6"
+  },
+  "25938": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Anim offhand"
+  },
+  "25941": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Anim offhand"
+  },
+  "25944": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Anim offhand"
+  },
+  "25947": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Anim offhand"
+  },
+  "25950": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Anim offhand"
+  },
+  "25953": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Anim offhand"
+  },
+  "25956": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Combat achievements"
+  },
+  "25958": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Corrupted paddlefish"
+  },
+  "25959": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "É\u001cû5É;ûÊ\u0002Corrupted escape crystal"
+  },
+  "25961": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "É\u001cŠÀÉ;‹Ø\u0002Escape crystal"
+  },
+  "25963": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Crypt key"
+  },
+  "25964": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ranis\u0027 head"
+  },
+  "25965": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Strange spider eggs"
+  },
+  "25966": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Sulphuric acid"
+  },
+  "25967": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Sticky note"
+  },
+  "25968": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Hespori bark"
+  },
+  "25973": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Masori amulet"
+  },
+  "25975": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "?\u0010(\u0001#À×»\u0002Lightbearer"
+  },
+  "25979": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Keris partisan"
+  },
+  "25981": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Keris partisan of breaching"
+  },
+  "25990": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of resilience"
+  },
+  "25991": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of resilience"
+  },
+  "25992": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of resilience"
+  },
+  "25993": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of consistency"
+  },
+  "25994": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of consistency"
+  },
+  "25995": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of consistency"
+  },
+  "25996": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the formidable fighter"
+  },
+  "25997": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the formidable fighter"
+  },
+  "25998": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the formidable fighter"
+  },
+  "25999": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the rigorous ranger"
+  },
+  "26000": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the rigorous ranger"
+  },
+  "26001": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the rigorous ranger"
+  },
+  "26002": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the meticulous mage"
+  },
+  "26003": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the meticulous mage"
+  },
+  "26004": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the meticulous mage"
+  },
+  "26005": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of fortification"
+  },
+  "26006": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of fortification"
+  },
+  "26007": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of fortification"
+  },
+  "26008": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of barrows"
+  },
+  "26009": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of barrows"
+  },
+  "26010": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of barrows"
+  },
+  "26011": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of deft strikes"
+  },
+  "26012": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of deft strikes"
+  },
+  "26013": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of deft strikes"
+  },
+  "26014": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of freedom"
+  },
+  "26015": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of freedom"
+  },
+  "26016": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of freedom"
+  },
+  "26017": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of enhanced harvest"
+  },
+  "26018": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of enhanced harvest"
+  },
+  "26019": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of enhanced harvest"
+  },
+  "26020": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of storage"
+  },
+  "26021": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of storage"
+  },
+  "26022": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of storage"
+  },
+  "26023": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the smith"
+  },
+  "26024": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the smith"
+  },
+  "26025": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the smith"
+  },
+  "26026": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the alchemist"
+  },
+  "26027": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the alchemist"
+  },
+  "26028": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the alchemist"
+  },
+  "26029": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the fletcher"
+  },
+  "26030": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the fletcher"
+  },
+  "26031": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the fletcher"
+  },
+  "26032": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the chef"
+  },
+  "26033": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the chef"
+  },
+  "26034": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the chef"
+  },
+  "26035": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the craftsman"
+  },
+  "26036": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the craftsman"
+  },
+  "26037": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the craftsman"
+  },
+  "26038": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the abyss"
+  },
+  "26039": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the abyss"
+  },
+  "26040": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the abyss"
+  },
+  "26041": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of stamina"
+  },
+  "26042": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of stamina"
+  },
+  "26043": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of stamina"
+  },
+  "26044": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the potion master"
+  },
+  "26045": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the potion master"
+  },
+  "26046": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the potion master"
+  },
+  "26047": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the eternal jeweller"
+  },
+  "26048": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the eternal jeweller"
+  },
+  "26049": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the eternal jeweller"
+  },
+  "26050": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the treasure hunter"
+  },
+  "26051": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the treasure hunter"
+  },
+  "26052": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the treasure hunter"
+  },
+  "26053": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of mobility"
+  },
+  "26054": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of mobility"
+  },
+  "26055": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of mobility"
+  },
+  "26056": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of exaggeration"
+  },
+  "26057": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of exaggeration"
+  },
+  "26058": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of exaggeration"
+  },
+  "26059": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of specialised strikes"
+  },
+  "26060": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of specialised strikes"
+  },
+  "26061": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of specialised strikes"
+  },
+  "26062": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the porcupine"
+  },
+  "26063": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the porcupine"
+  },
+  "26064": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the porcupine"
+  },
+  "26065": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of binding"
+  },
+  "26066": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of binding"
+  },
+  "26067": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of binding"
+  },
+  "26068": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of escaping"
+  },
+  "26069": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of escaping"
+  },
+  "26070": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of escaping"
+  },
+  "26071": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the ruthless ranger"
+  },
+  "26072": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the ruthless ranger"
+  },
+  "26073": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the ruthless ranger"
+  },
+  "26074": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the feral fighter"
+  },
+  "26075": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the feral fighter"
+  },
+  "26076": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the feral fighter"
+  },
+  "26077": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the menacing mage"
+  },
+  "26078": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the menacing mage"
+  },
+  "26079": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the menacing mage"
+  },
+  "26080": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of prosperity"
+  },
+  "26081": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of prosperity"
+  },
+  "26082": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of prosperity"
+  },
+  "26083": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the dwarves"
+  },
+  "26084": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the dwarves"
+  },
+  "26085": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the dwarves"
+  },
+  "26086": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the elves"
+  },
+  "26087": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the elves"
+  },
+  "26088": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the elves"
+  },
+  "26089": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the barbarians"
+  },
+  "26090": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the barbarians"
+  },
+  "26091": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the barbarians"
+  },
+  "26092": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the gnomes"
+  },
+  "26093": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the gnomes"
+  },
+  "26094": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the gnomes"
+  },
+  "26095": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of nature"
+  },
+  "25072": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Graceful cape"
+  },
+  "26096": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of nature"
+  },
+  "26097": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of nature"
+  },
+  "25074": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Graceful cape"
+  },
+  "26098": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of devotion"
+  },
+  "26099": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of devotion"
+  },
+  "26100": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of devotion"
+  },
+  "26101": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the forager"
+  },
+  "26102": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the forager"
+  },
+  "26103": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the forager"
+  },
+  "26104": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of garments"
+  },
+  "25081": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Graceful gloves"
+  },
+  "26105": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of garments"
+  },
+  "26106": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of garments"
+  },
+  "25083": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Graceful gloves"
+  },
+  "26107": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of slaughter"
+  },
+  "26108": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of slaughter"
+  },
+  "26109": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of slaughter"
+  },
+  "26110": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the fortune farmer"
+  },
+  "25087": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Trailblazer teleport scroll"
+  },
+  "26111": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the fortune farmer"
+  },
+  "25088": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Trailblazer teleport scroll"
+  },
+  "26112": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the fortune farmer"
+  },
+  "26113": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of versatility"
+  },
+  "25090": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Trailblazer tool ornament kit"
+  },
+  "26114": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of versatility"
+  },
+  "25091": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Trailblazer tool ornament kit"
+  },
+  "26115": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of versatility"
+  },
+  "26116": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the serpent"
+  },
+  "25093": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Trailblazer globe"
+  },
+  "26117": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the serpent"
+  },
+  "25094": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Trailblazer globe"
+  },
+  "26118": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the serpent"
+  },
+  "26119": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of supreme stamina"
+  },
+  "25096": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Trailblazer rug"
+  },
+  "26120": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of supreme stamina"
+  },
+  "25097": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Trailblazer rug"
+  },
+  "26121": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of supreme stamina"
+  },
+  "26122": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of preservation"
+  },
+  "25099": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Trailblazer graceful ornament kit"
+  },
+  "26123": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of preservation"
+  },
+  "25100": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Trailblazer graceful ornament kit"
+  },
+  "26124": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of preservation"
+  },
+  "26125": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of finality"
+  },
+  "25102": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Fairy mushroom"
+  },
+  "26126": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of finality"
+  },
+  "26127": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of finality"
+  },
+  "25104": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Crystal of memories"
+  },
+  "26128": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of pious protection"
+  },
+  "26129": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of pious protection"
+  },
+  "26130": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of pious protection"
+  },
+  "26131": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of aggression"
+  },
+  "26132": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of aggression"
+  },
+  "26133": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of aggression"
+  },
+  "26134": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of rampage"
+  },
+  "26135": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of rampage"
+  },
+  "26136": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of rampage"
+  },
+  "26137": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the skiller"
+  },
+  "25114": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Trailblazer harpoon"
+  },
+  "26138": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the skiller"
+  },
+  "26139": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the skiller"
+  },
+  "26140": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of remote storage"
+  },
+  "26141": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of remote storage"
+  },
+  "26142": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of remote storage"
+  },
+  "26143": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of last recall"
+  },
+  "26144": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of last recall"
+  },
+  "26145": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of last recall"
+  },
+  "26146": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the guardian angel"
+  },
+  "26147": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sigil of the guardian angel"
+  },
+  "26148": {
+    "noted": true,
+    "stackable": true,
+    "members": false,
+    "name": "Sigil of the guardian angel"
+  },
+  "25129": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Beekeeper\u0027s hat"
+  },
+  "26154": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Mount karuulm diary"
+  },
+  "25131": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Beekeeper\u0027s top"
+  },
+  "25133": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Beekeeper\u0027s legs"
+  },
+  "25135": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Beekeeper\u0027s gloves"
+  },
+  "25137": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Beekeeper\u0027s boots"
+  },
+  "25139": {
+    "noted": false,
+    "stackable": true,
+    "members": false,
+    "name": "Bone fragments"
+  },
+  "26168": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Group iron bracers"
+  },
+  "25145": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Clay head"
+  },
+  "25146": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Fur head"
+  },
+  "25147": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Bloody head"
+  },
+  "25152": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Neilan\u0027s journal"
+  },
+  "26182": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Hardcore group iron bracers"
+  },
+  "25193": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Granite ring (i)"
+  },
+  "25195": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001d\f"
+  },
+  "25196": {
+    "noted": false,
+    "stackable": true,
+    "members": true,
+    "name": "Soul fragment"
+  },
+  "25197": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Soul wars guide"
+  },
+  "26221": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ancient ceremonial top"
+  },
+  "25199": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Bones"
+  },
+  "26223": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ancient ceremonial legs"
+  },
+  "25200": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Bones"
+  },
+  "25201": {
+    "noted": false,
+    "stackable": true,
+    "members": true,
+    "name": "Soul fragment"
+  },
+  "26225": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ancient ceremonial mask"
+  },
+  "25202": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Bandages"
+  },
+  "25203": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Potion of power(4)"
+  },
+  "25204": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Potion of power(3)"
+  },
+  "25205": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Potion of power(2)"
+  },
+  "26229": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ancient ceremonial boots"
+  },
+  "25206": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Potion of power(1)"
+  },
+  "25207": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001d\f"
+  },
+  "26231": {
+    "noted": false,
+    "stackable": true,
+    "members": true,
+    "name": "Nihil shard"
+  },
+  "25208": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001d\f"
+  },
+  "25211": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Explosive potion"
+  },
+  "26237": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Zaryte bow"
+  },
+  "26239": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Zaryte bow"
+  },
+  "26241": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Virtus mask"
+  },
+  "26243": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Virtus robe top"
+  },
+  "26245": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Virtus robe bottoms"
+  },
+  "26250": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Jered\u0027s empty wine bottle"
+  },
+  "26252": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Ad coupon"
+  },
+  "26254": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Saucepan"
+  },
+  "26256": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Ugly halloween jumper (orange)"
+  },
+  "26258": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Ugly halloween jumper (black)"
+  },
+  "26262": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Rune scimitar"
+  },
+  "26264": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Studded body"
+  },
+  "26266": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Condensed gold"
+  },
+  "26267": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Condensed gold"
+  },
+  "25244": {
+    "noted": false,
+    "stackable": true,
+    "members": true,
+    "name": "Dark key"
+  },
+  "25246": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ring of suffering (i)"
+  },
+  "26270": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Festive cinnamon"
+  },
+  "25248": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ring of suffering (ri)"
+  },
+  "26272": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Festive holly"
+  },
+  "25250": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Salve amulet(i)"
+  },
+  "26274": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Festive white wine"
+  },
+  "25252": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ring of the gods (i)"
+  },
+  "26276": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Notes"
+  },
+  "25254": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Tyrannical ring (i)"
+  },
+  "26278": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Magical cleaning potion"
+  },
+  "25256": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Treasonous ring (i)"
+  },
+  "26280": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Pink stained platebody"
+  },
+  "25258": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Seers ring (i)"
+  },
+  "26282": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Pink stained platelegs"
+  },
+  "25260": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Archers ring (i)"
+  },
+  "26284": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Pink stained full helm"
+  },
+  "25262": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Warrior ring (i)"
+  },
+  "26286": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Clean platebody"
+  },
+  "25264": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Berserker ring (i)"
+  },
+  "26288": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Clean platelegs"
+  },
+  "26290": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Clean full helm"
+  },
+  "26292": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Festive gingerbread gnomes"
+  },
+  "26294": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Festive mulled wine"
+  },
+  "26296": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Snow"
+  },
+  "26298": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Secret santa present"
+  },
+  "26300": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Secret santa present"
+  },
+  "25278": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Salve amulet(ei)"
+  },
+  "26302": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Secret santa present"
+  },
+  "25280": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ð\u0002Essence pack"
+  },
+  "26304": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Chocolate chips"
+  },
+  "25282": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Sled"
+  },
+  "26306": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Chocolate chips"
+  },
+  "25283": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Red fireflies"
+  },
+  "25284": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Green fireflies"
+  },
+  "26308": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "A big present"
+  },
+  "25285": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Stick"
+  },
+  "25286": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Mouldy sawdust"
+  },
+  "26310": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Festive elf slippers"
+  },
+  "25287": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Rotten meat"
+  },
+  "25288": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Stale bread"
+  },
+  "26312": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Festive elf hat"
+  },
+  "25289": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Goblin stew"
+  },
+  "25290": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Goblin gifts"
+  },
+  "26314": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Snowman ring"
+  },
+  "26316": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Secret santa present (red)"
+  },
+  "26318": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Secret santa present (blue)"
+  },
+  "26320": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Secret santa present (green)"
+  },
+  "26322": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Secret santa present (black)"
+  },
+  "26324": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Secret santa present (gold)"
+  },
+  "26326": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Little snowball"
+  },
+  "26328": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Small snowball"
+  },
+  "26330": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Normal snowball"
+  },
+  "26332": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Big snowball"
+  },
+  "26334": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Large snowball"
+  },
+  "26336": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Huge snowball"
+  },
+  "26338": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Humongous snowball"
+  },
+  "25316": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Goblin decorations"
+  },
+  "25322": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "20th anniversary hat"
+  },
+  "25324": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "20th anniversary top"
+  },
+  "26348": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Nexling"
+  },
+  "25326": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "20th anniversary bottom"
+  },
+  "25328": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "20th anniversary boots"
+  },
+  "25330": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "20th anniversary gloves"
+  },
+  "25332": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "20th anniversary necklace"
+  },
+  "26356": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Frozen key"
+  },
+  "25334": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "20th anniversary cape"
+  },
+  "26358": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Frozen key piece (armadyl)"
+  },
+  "25336": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Gnome child mask"
+  },
+  "26360": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Frozen key piece (bandos)"
+  },
+  "25338": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Gnome child icon"
+  },
+  "25340": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ectoplasmator"
+  },
+  "25342": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Spoils of war"
+  },
+  "26366": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Important letter"
+  },
+  "26368": {
+    "noted": false,
+    "stackable": true,
+    "members": true,
+    "name": "Nihil dust"
+  },
+  "25348": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Lil\u0027 creator"
+  },
+  "26372": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Nihil horn"
+  },
+  "25350": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Lil\u0027 destructor"
+  },
+  "26388": {
+    "noted": false,
+    "stackable": true,
+    "members": true,
+    "name": "Ecumenical key shard"
+  },
+  "26390": {
+    "noted": false,
+    "stackable": true,
+    "members": true,
+    "name": "Blood essence"
+  },
+  "26392": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Blood essence (active)"
+  },
+  "26394": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Bandosian components"
+  },
+  "25419": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Urium remains"
+  },
+  "25420": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Urium remains"
+  },
+  "25424": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Gold key red"
+  },
+  "25426": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Gold key brown"
+  },
+  "25428": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Gold key crimson"
+  },
+  "25430": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Gold key black"
+  },
+  "25432": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Gold key purple"
+  },
+  "25434": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Zealot\u0027s robe top"
+  },
+  "25436": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Zealot\u0027s robe bottom"
+  },
+  "25440": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Zealot\u0027s boots"
+  },
+  "25442": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Bronze locks"
+  },
+  "25443": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Bronze locks"
+  },
+  "25445": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Steel locks"
+  },
+  "25446": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Steel locks"
+  },
+  "25448": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Black locks"
+  },
+  "25449": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Black locks"
+  },
+  "25451": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Silver locks"
+  },
+  "25452": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Silver locks"
+  },
+  "25454": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Gold locks"
+  },
+  "25455": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Gold locks"
+  },
+  "25457": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Broken coffin"
+  },
+  "25459": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001f7\u0016\u0018\u001f¯\u0016\u0014\u0002Bronze coffin"
+  },
+  "25461": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001f7"
+  },
+  "25463": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001f7"
+  },
+  "25465": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001f7¨X\u001f¯¨D\u0002Silver coffin"
+  },
+  "25469": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001f7\u0016\u0018\u001f¯\u0016\u0014\u0002Open bronze coffin"
+  },
+  "25470": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001f7"
+  },
+  "25471": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001f7"
+  },
+  "25472": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "\u001f7¨X\u001f¯¨D\u0002Open silver coffin"
+  },
+  "25474": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Tree wizards\u0027 journal"
+  },
+  "25476": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Bloody notes"
+  },
+  "25478": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Runescroll of swampbark"
+  },
+  "25479": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Runescroll of swampbark"
+  },
+  "25481": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Runescroll of bloodbark"
+  },
+  "25482": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Runescroll of bloodbark"
+  },
+  "25498": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "î\u0010\u0002Clue scroll (elite)"
+  },
+  "25499": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "î\u0010\u0002Clue scroll (elite)"
+  },
+  "25519": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Jalrek-jad"
+  },
+  "25521": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Jar of spirits"
+  },
+  "25522": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Jar of spirits"
+  },
+  "25524": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Jar of smoke"
+  },
+  "25525": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Jar of smoke"
+  },
+  "25533": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ð(\u0003\u0015Ð\u0016­\u0015Ø\u000e#\u0015D\u0016­\u0002Soft clay pack"
+  },
+  "25535": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Ð\u0002Essence pack"
+  },
+  "25537": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Bag full of gems"
+  },
+  "25547": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Star fragment"
+  },
+  "25551": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Golden prospector jacket"
+  },
+  "25553": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Golden prospector legs"
+  },
+  "25555": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Golden prospector boots"
+  },
+  "25557": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Dark flippers"
+  },
+  "25561": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Stuffed big harpoonfish"
+  },
+  "25567": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "The desert trout - ship\u0027s log"
+  },
+  "25569": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "Spirit anglers research notes"
+  },
+  "25571": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Damp egg"
+  },
+  "25572": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Damp egg"
+  },
+  "25574": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Tome of water"
+  },
+  "25576": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Tome of water (empty)"
+  },
+  "25577": {
+    "noted": true,
+    "stackable": true,
+    "members": true,
+    "name": "Tome of water (empty)"
+  },
+  "25578": {
+    "noted": false,
+    "stackable": false,
+    "members": false,
+    "name": "÷\u000b\f"
+  },
+  "25580": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Tackle box"
+  },
+  "25588": {
+    "noted": false,
+    "stackable": true,
+    "members": true,
+    "name": "Spirit flakes"
+  },
+  "25590": {
+    "noted": false,
+    "stackable": true,
+    "members": true,
+    "name": "Casket"
+  },
+  "25592": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Spirit angler headband"
+  },
+  "25594": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Spirit angler top"
+  },
+  "25596": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Spirit angler waders"
+  },
+  "25598": {
+    "noted": false,
+    "stackable": false,
+    "members": true,
+    "name": "Spirit angler boots"
+  }
+}
