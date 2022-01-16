@@ -225,6 +225,34 @@ public class WikiItemServiceTest
     }
 
     /// <summary>
+    /// Enjifern has an unknown release date and should be Null
+    /// </summary>
+    [Fact]
+    [Trait("Category","Unit")]
+    public void Get_Enjifern()
+    {
+        const int itemId = 713;
+        var mockHtmlService = GetMockDocument(new Enjifern(), itemId);
+        var wikiItemService = new WikiItemService(mockHtmlService);
+
+        var result = wikiItemService.Get(itemId);
+        
+        Assert.Equivalent(itemId, result.Id);
+        Assert.Equivalent("Clue scroll", result.Name);
+        Assert.Null(result.ReleaseDate);
+        Assert.False(result.IsMembers);
+        Assert.False(result.IsTradeable);
+        Assert.False(result.IsEquipable);
+        Assert.False(result.IsStackable);
+        Assert.Equivalent(@"Drop", result.DestroyText);
+        Assert.Equivalent(@"It's a clue scroll.", result.ExamineText);
+        Assert.Equivalent(1, result.Value);
+        Assert.Equivalent(0, result.HighAlchValue);
+        Assert.Equivalent(0, result.LowAlchValue);
+        Assert.Null(result.Weight);
+    }
+
+    /// <summary>
     /// Only use for finding what items break the application. Uncaught exceptions will help
     /// to find specific test cases to add above.
     /// </summary>

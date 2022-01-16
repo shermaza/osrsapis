@@ -8,7 +8,7 @@ public class Item
     public string? Name { get; set; }
     public string? DestroyText { get; set; }
     public string? ExamineText { get; set; }
-    public DateTime ReleaseDate { get; set; }
+    public DateTime? ReleaseDate { get; set; }
     public bool IsStackable { get; set; }
     public bool IsMembers { get; set; }
     public bool IsTradeable { get; set; }

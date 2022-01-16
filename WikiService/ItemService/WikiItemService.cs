@@ -67,13 +67,18 @@ public class WikiItemService : IItemService
         return textValue;
     }
 
-    private DateTime GetReleaseDate(HtmlNode document)
+    private DateTime? GetReleaseDate(HtmlNode document)
     {
 
         const string xpath = "//*[@id=\"mw-content-text\"]//*[text()='Released']/../td";
         var node = document.SelectSingleNode(xpath);
         var text = node.InnerText;
-        
+
+        if (text.Contains("unknown"))
+        {
+            return null;
+        }
+
         var year = int.Parse(node.InnerText.Split()[2]);
         var month = DateTime.ParseExact(node.InnerText.Split()[1], "MMMM", CultureInfo.CurrentCulture ).Month;
         var day = int.Parse(node.InnerText.Split()[0]);
