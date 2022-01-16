@@ -18,6 +18,7 @@ public class WikiItemServiceTest
     }
 
     [Fact]
+    [Trait("Category","Unit")]
     public void Get_Returns_Item_Type()
     {
         int itemId = 0;
@@ -30,6 +31,7 @@ public class WikiItemServiceTest
     }
 
     [Fact]
+    [Trait("Category","Unit")]
     public void Get_Returns_Same_Results_For_Int_and_CacheItem()
     {
         const int itemId = 0;
@@ -48,6 +50,7 @@ public class WikiItemServiceTest
     }
 
     [Fact]
+    [Trait("Category","Unit")]
     public void Get_Dwarf_Remains()
     {
         const int itemId = 0;
@@ -72,6 +75,7 @@ public class WikiItemServiceTest
     }
 
     [Fact]
+    [Trait("Category","Unit")]
     public void Get_Toolkit()
     {
         const int itemId = 1;
@@ -96,6 +100,7 @@ public class WikiItemServiceTest
     }
 
     [Fact]
+    [Trait("Category","Unit")]
     public void Get_Cannonball()
     {
         const int itemId = 2;
@@ -120,6 +125,7 @@ public class WikiItemServiceTest
     }
 
     [Fact]
+    [Trait("Category","Unit")]
     public void Get_CannonBase()
     {
         const int itemId = 6;
@@ -144,6 +150,7 @@ public class WikiItemServiceTest
     }
 
     [Fact]
+    [Trait("Category","Unit")]
     public void Get_LitCandleUnobtainable()
     {
         const int itemId = 6;
@@ -168,6 +175,7 @@ public class WikiItemServiceTest
     }
 
     [Fact]
+    [Trait("Category","Unit")]
     public void Get_LitTorchUnobtainable()
     {
         const int itemId = 595;
@@ -191,6 +199,31 @@ public class WikiItemServiceTest
         Assert.Equivalent(null, result.Weight);
     }
 
+    [Fact]
+    [Trait("Category","Unit")]
+    public void Get_GroundCharcoal()
+    {
+        const int itemId = 704;
+        var mockHtmlService = GetMockDocument(new GroundCharcoal(), itemId);
+        var wikiItemService = new WikiItemService(mockHtmlService);
+
+        var result = wikiItemService.Get(itemId);
+        
+        Assert.Equivalent(itemId, result.Id);
+        Assert.Equivalent("Ground charcoal", result.Name);
+        Assert.Equivalent(new DateTime(2003, 7, 9), result.ReleaseDate);
+        Assert.True(result.IsMembers);
+        Assert.False(result.IsTradeable);
+        Assert.False(result.IsEquipable);
+        Assert.False(result.IsStackable);
+        Assert.Equivalent(@"Drop", result.DestroyText);
+        Assert.Equivalent(@"Charcoal - crushed to small pieces!", result.ExamineText);
+        Assert.Equivalent(1, result.Value);
+        Assert.Equivalent(0, result.HighAlchValue);
+        Assert.Equivalent(0, result.LowAlchValue);
+        Assert.Equivalent(0.008, result.Weight);
+    }
+
     /// <summary>
     /// Only use for finding what items break the application. Uncaught exceptions will help
     /// to find specific test cases to add above.
@@ -198,22 +231,23 @@ public class WikiItemServiceTest
     /// <param name="htmlClass"></param>
     /// <param name="id"></param>
     /// <returns></returns>
-    // [Fact]
-    // public void TestAllItems()
-    // {
-    //     int min = 594;
-    //     int max = 1000;
-    //     var htmlService = new WikiHtmlService();
-    //     var itemService = new WikiItemService(htmlService);
-    //     
-    //     for (int i = min; i < max; i++)
-    //     {
-    //         var item = itemService.Get(i);
-    //         _testOutputHelper.WriteLine($"Id: {i} - {Newtonsoft.Json.JsonConvert.SerializeObject(item)}");
-    //         
-    //         Thread.Sleep(3000);
-    //     }
-    // }
+    [Fact]
+    [Trait("Category","NoCI")]
+    public void TestAllItems()
+    {
+        int min = 713;
+        int max = 1000;
+        var htmlService = new WikiHtmlService();
+        var itemService = new WikiItemService(htmlService);
+        
+        for (int i = min; i < max; i++)
+        {
+            var item = itemService.Get(i);
+            _testOutputHelper.WriteLine($"Id: {i} - {Newtonsoft.Json.JsonConvert.SerializeObject(item)}");
+            
+            Thread.Sleep(3000);
+        }
+    }
 
     private IHtmlService GetMockDocument(ITestHtml htmlClass, int id)
     {
